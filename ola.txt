@@ -1,1 +1,7 @@
-olá
+cmd
+This is an example of a text file.
+
+- Line 1 contains this item
+- Line 2 contains this other item
+
+This is the end of the file
