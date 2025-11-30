@@ -1,12 +1,4 @@
 <<<<<<< HEAD
 olá
-fdghjgchk
-=======
-cmd
-This is an example of a text file.
 
-- Line 1 contains this item
-- Line 2 contains this other item
 
-This is the end of the file
->>>>>>> 3aed015527e459b1be971eafe9464449b44785d3
